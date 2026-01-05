@@ -47,22 +47,6 @@
 
   <hr/>
 
-  <h2>📊 Estatísticas do GitHub</h2>
-
-  <p>
-    <img 
-      src="https://github-readme-stats.vercel.app/api?username=NatanVinicius&show_icons=true&theme=default" 
-      alt="Estatísticas do GitHub"
-    />
-  </p>
-
-  <p>
-    <img 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=NatanVinicius&layout=compact" 
-      alt="Linguagens mais usadas"
-    />
-  </p>
-
   <hr/>
 
   <p align="center">
