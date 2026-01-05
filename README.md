@@ -51,14 +51,14 @@
 
   <p>
     <img 
-      src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO-GITHUB&show_icons=true&theme=default" 
+      src="https://github-readme-stats.vercel.app/api?username=NatanVinicius&show_icons=true&theme=default" 
       alt="Estatísticas do GitHub"
     />
   </p>
 
   <p>
     <img 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO-GITHUB&layout=compact" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=NatanVinicius&layout=compact" 
       alt="Linguagens mais usadas"
     />
   </p>
